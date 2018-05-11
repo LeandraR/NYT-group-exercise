@@ -1,0 +1,27 @@
+header{
+    text-align: center;
+    background-image:url("https://pixabay.com/get/e83db30b20f6093ed1534705fb0938c9bd22ffd41cb3174195f0c671a3/background-1824828_1920.jpg");
+}
+label,input{
+display: block;
+
+
+}
+input{
+    width:70vw;
+}
+form{
+    width: 80vw;
+    margin:auto;
+    box-shadow: 1px 1px 1px 1px grey;
+    padding:5px;
+}
+#results{
+    width:80vw;
+    margin:auto;
+    border: 1px solid;
+    padding:5px;
+}
+footer{
+    text-align: center;
+}
